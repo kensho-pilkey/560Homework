@@ -1,3 +1,3 @@
 ### Comp 560 Homework 1
 
-##### Group member names: Kensho Pilkey, Nickolas Bleykhman, Kenneth Roberts, Raheq Hassan,
+##### Group member names: Kensho Pilkey, Nickolas Bleykhman, Kenneth Roberts, Raheq Hassan, and Kamal Deep Vasireddy
